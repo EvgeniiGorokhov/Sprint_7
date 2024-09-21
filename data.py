@@ -3,7 +3,7 @@ class Data:
     PASSWORD = 'Fgtkmcby'
     FIRSTNAME = 'IGOR'
     VALID_COURIER_DATA = {'login': 'Igor1', 'password': 'Fgtkmcby', 'firstName': 'IGOR'}
-    COURIER_DATA_WITH_WRONG_PASSWORD = {'login': 'Igor12', 'password': '1233'}
+    COURIER_DATA_WITH_WRONG_PASSWORD = {'login': 'Igor1', 'password': '1233'}
 
 
 class OrderData:
